@@ -1,0 +1,423 @@
+[
+    [
+        "F:\\CustomWebComp\\force-app",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828801,
+            "changeTime": 1547470828801,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828808,
+            "changeTime": 1547470828808,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828949,
+            "changeTime": 1547470828949,
+            "contentHash": "753a6fc7c55e4564ae21eb81f2af12620f993995",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547465633522,
+            "changeTime": 1547470828816,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828833,
+            "changeTime": 1547470828833,
+            "contentHash": "cc0c910fdddb381b8f59557cb7b72d9252eaf09f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\classes\\ContactController.cls",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\classes\\ContactController.cls",
+            "isDirectory": false,
+            "size": 821,
+            "modifiedTime": 1547530340822,
+            "changeTime": 1547470813797,
+            "contentHash": "e7dd8382c8734b04ef1ea32626edfc8dfaaf6575",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1547193019054,
+            "changeTime": 1547470813799,
+            "contentHash": "2eccdbe21dd0c08b4037a8b3969d3141446e9f44",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547471936391,
+            "changeTime": 1547471936442,
+            "contentHash": "db769b0c3f30265d6384b4f728e5a583f9ee6a5b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828875,
+            "changeTime": 1547470828875,
+            "contentHash": "dba1ae591e3f572e621a4942161f9211c332387c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.css",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.css",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1547539522341,
+            "changeTime": 1547539522341,
+            "contentHash": "2753ee9cf19c036dfaacedf3718d0fabab57424a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.html",
+        {
+            "state": "u",
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1212,
+            "modifiedTime": 1547543203699,
+            "changeTime": 1547543203699,
+            "isWorkspace": false,
+            "contentHash": "c63ab6fc2561ab31af2cb352b1dbda029ef61521"
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.js",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.js",
+            "isDirectory": false,
+            "size": 1114,
+            "modifiedTime": 1547467121456,
+            "changeTime": 1547470813815,
+            "contentHash": "fa7fc8ca1805733466505b38f2330872acd5bee9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.js-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactSearch\\contactSearch.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1547466071031,
+            "changeTime": 1547470813817,
+            "contentHash": "aae6e043c2e483f3efc5e3d5dad0dff534f8f1da",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828902,
+            "changeTime": 1547470828902,
+            "contentHash": "955948c8fadde37ea36009e76e4ba3c8688343ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.css",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.css",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1547193019094,
+            "changeTime": 1547470813824,
+            "contentHash": "d8c02c5534a5f3db8fac66deefde4b60f18351d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.html",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.html",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1547535797297,
+            "changeTime": 1547535797297,
+            "contentHash": "d703273ee5cacbafb1af31a2cffdc552c8232c9b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1547535794858,
+            "changeTime": 1547535794858,
+            "contentHash": "8c13af849c5a749c6fdf384468abbefe4644a398",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\contactTile\\contactTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1547193019095,
+            "changeTime": 1547470813831,
+            "contentHash": "487aedae729c8db9d5562a1fa4edf12bbc5db658",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828922,
+            "changeTime": 1547470828922,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828930,
+            "changeTime": 1547470828930,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828936,
+            "changeTime": 1547470828936,
+            "contentHash": "23e41d19f370695b58961696a1061c3a74ecc264",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\objects\\Contact\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1547193019156,
+            "changeTime": 1547470813838,
+            "contentHash": "57a8818a48c1e05daef1ad97e6b78a23cfcb202b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547470828954,
+            "changeTime": 1547470828954,
+            "contentHash": "f8f301c540f3cd61d9a208a237792d6bf126fbfb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\permissionsets\\recipes.permissionset-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\permissionsets\\recipes.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 4284,
+            "modifiedTime": 1547468100838,
+            "changeTime": 1547470813842,
+            "contentHash": "aa6dc40da1bb2cc1a0ced444e2862ffd80c8623f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\CustomWebComp",
+        {
+            "sourcePath": "F:\\CustomWebComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547471141282,
+            "changeTime": 1547471141282,
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547471936414,
+            "changeTime": 1547471936471,
+            "contentHash": "8b2c5e323750c45d186de9e6aebe4741ab0ac7f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.html",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.html",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1547473136922,
+            "changeTime": 1547473136922,
+            "contentHash": "12166d8a3f155ead86d2eb572c3bdcdeec308aa8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.js",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.js",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1547228129939,
+            "changeTime": 1547228129939,
+            "contentHash": "7eedc2beb1f13666866ed7f23c6088517ba3430d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.js-meta.xml",
+        {
+            "sourcePath": "F:\\CustomWebComp\\force-app\\main\\default\\lwc\\navToNewRecord\\navToNewRecord.js-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1547228129940,
+            "changeTime": 1547228129940,
+            "contentHash": "d657e69f472a325c6e70985940449969fbdbb196",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

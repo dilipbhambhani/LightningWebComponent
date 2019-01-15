@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/contact-search": [
+                "contactSearch/contactSearch.js"
+            ],
+            "c/contact-tile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/nav-to-new-record": [
+                "navToNewRecord/navToNewRecord.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}
